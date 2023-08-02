@@ -10,9 +10,6 @@ In this contract, we create our own token and use different functions such as mi
 
 ### Executing program
 
-To run this program, you can use gitpod , an online Solidity IDE. To get started, go to https://jeffryanpol-soliditysta-sbt87u3aw59.ws-us98.gitpod.io/
-
-Once you are on the  website, create a new file by clicking on the "file" icon in the left-hand sidebar. Save the file with a .sol extension (e.g., FunctioError.sol). Copy and paste the following code into the file:
 
     // SPDX-License-Identifier: MIT
     pragma solidity ^0.8.18;
